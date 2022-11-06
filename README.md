@@ -6,7 +6,7 @@ https://www.kaggle.com/datasets/dimka11/construction-machinery-cls
 
 Презентация:
 
-https://docs.google.com/presentation/d/1akPU_UUkdFJHC3OMV_JCAVl6xneClhzNCTAEZaZybOo/edit#slide=id.g1f87997393_0_782
+https://docs.google.com/presentation/d/1akPU_UUkdFJHC3OMV_JCAVl6xneClhzNCTAEZaZybOo/edit?usp=sharing
 
 Блокноты и веса моделей доступны на Kaggle (Data -> Output) папка weights:
 
